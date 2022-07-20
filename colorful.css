@@ -104,8 +104,8 @@ button:hover {
 /* Red */
 .buttonRed {
     color: #fff;
-    border-color: #d9534f;
-    background-color: #c12e2a;
+    border-color: #c12e2a;
+    background-color: #d9534f;
 }
 .buttonRed:hover {
     background-image: linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);
