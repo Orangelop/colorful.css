@@ -1,4 +1,4 @@
-# colourful.css  
+# colorful.css  
 
 ## Introduction  
 
